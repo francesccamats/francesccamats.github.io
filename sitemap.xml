@@ -3,54 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/hugo-gallery/</loc>
+    <loc>https://francesccamats.github.io/hugo-gallery/</loc>
     <lastmod>2021-06-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://francesccamats.github.io/tags/</loc>
     <lastmod>2020-06-06T22:49:19+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://francesccamats.github.io/categories/</loc>
     <lastmod>2020-06-06T22:48:29+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/2020/06/big-award/</loc>
+    <loc>https://francesccamats.github.io/blog/2020/06/big-award/</loc>
     <lastmod>2020-06-04T23:30:14+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
+    <loc>https://francesccamats.github.io/blog/</loc>
     <lastmod>2020-06-04T23:15:33+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://francesccamats.github.io/contact/</loc>
     <lastmod>2020-06-04T23:03:21+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://francesccamats.github.io/</loc>
     <lastmod>2020-06-01T16:16:24+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/archive/</loc>
+    <loc>https://francesccamats.github.io/archive/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/month/</loc>
+    <loc>https://francesccamats.github.io/month/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/research/</loc>
+    <loc>https://francesccamats.github.io/research/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/year/</loc>
+    <loc>https://francesccamats.github.io/year/</loc>
   </url>
   
 </urlset>
