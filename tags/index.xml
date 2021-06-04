@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Francesc Camats</title>
+        <link>http://example.org/tags/</link>
+        <description>Latest blog posts from Francesc Camats</description>
+
+        
+        <language>en-us</language>
+        
+
+        
+
+        
+
+        
+
+        
+        <lastBuildDate>Sat, 06 Jun 2020 22:49:19 +0200</lastBuildDate>
+        
+
+        
+        <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+        
+
+        
+            
+        <item>
+          <title>Big Award!</title>
+          <link>http://example.org/blog/2020/06/big-award/</link>
+          <pubDate>Thu, 04 Jun 2020 23:30:14 +0200</pubDate>
+          
+          <guid>http://example.org/blog/2020/06/big-award/</guid>
+          <description>Buenas, os informo que he conseguido el oro en el concurso de pintura Golden Kobold 2019, categoría de miniaturas pequeñas. Nos vemos pronto :)
+I’m happy to anounce that I am been the winner of the Golden Kobold 2019 for the single miniature small category. See you soon :)</description>
+        </item>
+            
+        
+    </channel>
+</rss>
